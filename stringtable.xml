@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Chaman_Valley">
+
+	<Key ID="STR_TB_missionTitle_TB_Chaman_Valley">
+		<Original>Chaman Valley</Original>
+		<English>Chaman Valley</English>
+		<German>Chaman Valley</German>
+		<Italian>Chaman Valley</Italian>
+		<Spanish>Chaman Valley</Spanish>
+		<French>Chaman Valley</French>
+		<Czech>Chaman Valley</Czech>
+		<Russian>Chaman Valley</Russian>
+		<Polish>Chaman Valley</Polish>
+		<Hungarian>Chaman Valley</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Chaman_Valley">
+		<Original>TacBF A&amp;S[T-10]: Chaman Valley</Original>
+		<English>TacBF A&amp;S[T-10]: Chaman Valley</English>
+		<German>TacBF A&amp;S[T-10]: Chaman Valley</German>
+		<Italian>TacBF A&amp;S[T-10]: Chaman Valley</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Chaman Valley</Spanish>
+		<French>TacBF A&amp;S[T-10]: Chaman Valley</French>
+		<Czech>TacBF A&amp;S[T-10]: Chaman Valley</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Chaman Valley</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Chaman Valley</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Chaman Valley</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

@@ -1,0 +1,24 @@
+class TB_OPFBasicAmmunitionBox
+{
+	transportClear = 1;
+	proxyObject = "TB_OPFBasicAmmunitionBox";
+	class transportCargo
+	{
+		transportMagazines[] = {
+			{"rhs_100Rnd_762x54mmR_green", 5},
+			{"rhs_mag_30Rnd_556x45_M855A1_Stanag", 10},
+			{"rhs_30Rnd_762x39mm", 10},
+			{"SmokeShell", 10},
+			{"CUP_M136_M", 8},
+			{"rhs_VOG25", 10},
+			{"rhs_rpg7_PG7VL_mag", 3},
+			{"CUP_M136_M", 3},
+			{"rhsusf_5Rnd_762x51_m118_special_Mag", 10},
+			{"LaserBatteries", 2}
+
+		};
+		transportWeapons[] = {{"rhs_weap_ak103"}};
+		//transportBackpacks[] = {};
+		//transportItems[] = {};
+	};
+};
